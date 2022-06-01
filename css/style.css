@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --font-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #7e2c87;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 } 
 
 .principal {
-    background-image: url(../assets/img/Background.png);
+    background-image: url(../img/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
